@@ -1,0 +1,8 @@
+{
+  "name": "SolarPitch gonet0",
+  "description": "White-label solar design and interactive customer proposal platform for residential solar installers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
